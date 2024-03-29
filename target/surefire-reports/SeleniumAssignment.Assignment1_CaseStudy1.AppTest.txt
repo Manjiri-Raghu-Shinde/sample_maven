@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SeleniumAssignment.Assignment1_CaseStudy1.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.32 s -- in SeleniumAssignment.Assignment1_CaseStudy1.AppTest
